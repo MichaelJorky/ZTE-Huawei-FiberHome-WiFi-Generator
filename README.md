@@ -16,7 +16,7 @@ Aplikasi ini dibuat khusus untuk bekerja dengan kombinasi **SSID bawaan** dan **
 ## 🖼️ Tampilan Aplikasi
 
 <div align="center">
-  <img src="./assets/ZTE Huawei & FiberHome Wifi Generator.jpg" alt="ZTE Huawei & FiberHome Wifi Generator" width="500" height="450">
+  <img src="./assets/ZTE Huawei & FiberHome Wifi Generator.jpg" alt="ZTE Huawei & FiberHome Wifi Generator" width="400" height="350">
 </div>
 
 ---
