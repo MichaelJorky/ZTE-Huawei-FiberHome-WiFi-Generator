@@ -13,6 +13,14 @@ Aplikasi ini dibuat khusus untuk bekerja dengan kombinasi **SSID bawaan** dan **
 
 ---
 
+## 🖼️ Tampilan Aplikasi
+
+<div align="center">
+  <img src="./assets/ZTE Huawei & FiberHome Wifi Generator.jpg" alt="ZTE Huawei & FiberHome Wifi Generator" width="600" height="500">
+</div>
+
+---
+
 ## ⚙️ Cara Kerja
 
 Aplikasi ini menggunakan algoritma atau pola tertentu yang umum digunakan oleh pabrikan untuk menurunkan kata sandi Wi-Fi default dari SSID default-nya. Jadi, Anda cukup memasukkan SSID yang terlihat, lalu alat ini akan menghitung password bawaannya.
