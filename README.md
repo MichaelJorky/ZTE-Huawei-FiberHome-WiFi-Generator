@@ -72,7 +72,7 @@ Karena aplikasi ini dirancang khusus untuk ekosistem Windows, pastikan perangkat
 ## 📦 Instalasi & Cara Penggunaan
 
 ### 1. Unduh Aplikasi
-Kunjungi halaman [Rilis (Releases)](https://github.com/MichaelJorky/zt-hw-fh-wifi-generator/releases) dan unduh file terbaru dengan ekstensi `.exe`.
+Kunjungi halaman [Rilis (Releases)](https://github.com/MichaelJorky/ZTE-Huawei-FiberHome-WiFi-Generator/releases) dan unduh file terbaru dengan ekstensi `.exe`.
 
 ### 2. Jalankan Aplikasi
 Ekstrak file (jika dalam bentuk ZIP) lalu jalankan `ZTE HW & FH Wifi Generator.exe`.
